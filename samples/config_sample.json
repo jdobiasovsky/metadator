@@ -1,0 +1,10 @@
+{
+  "AUTH": {
+    "FEDORA_USER": "fedoraAdministrator",
+    "FEDORA_PASS": "adminpass1234"
+  },
+  "TARGETS": {
+    "FEDORA": "http://localhost:8080/fedora/objects/",
+    "OAI": "http://localhost:8983/solr/kramerius/select?"
+  }
+}

@@ -1,0 +1,12 @@
+000639762 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:fa767277-d519-448b-87fa-bc01f30e38dc$$yDigitalizovaný dokument
+000639762 BAS   L di
+000912370 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:90efc712-93e8-40df-bcb7-ae705f061c56$$yDigitalizovaný dokument
+000912370 BAS   L di
+000910984 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:7c04861c-c199-48ab-8d7b-1f1e74c42980$$yDigitalizovaný dokument
+000910984 BAS   L di
+000666530 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:d26016b8-1d2b-416b-a1c1-328d8171cbdd$$yDigitalizovaný dokument
+000666530 BAS   L di
+000912373 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:c9359e58-c786-41d3-8a27-1f81f8bdfa69$$yDigitalizovaný dokument
+000912373 BAS   L di
+000910972 85640 L $$uhttps://kramerius.techlib.cz/search/handle/uuid:78fa4d61-383d-4e09-b131-74f107edb963$$yDigitalizovaný dokument
+000910972 BAS   L di
