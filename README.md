@@ -1,2 +1,2 @@
 # metadator
-Batch request metadata fields and save them into csv
+Tool for enriching digital objects via data pulled from library catalogue
